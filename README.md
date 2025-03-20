@@ -1,18 +1,17 @@
 
-<h1 align="center"> 🖖 Hi there! I'm <a href="https://github.com/DaylinMB">Daylin Mejía<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
-<Br>
+<h1> 🖖 Hi there! I'm <a href="https://github.com/DaylinMB">Daylin Mejía<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<br><br>
+  
+<h2> 🌟 Frontend Developer | Angular Enthusiast |  UX/UI Designer  ✨</h2> 
 
+- 🌱 Learning about new technologies and frameworks.
+- 🤝 Looking to collaborate on interesting projects.
+- 📚 Passionate about learning and sharing knowledge.
+- 👨‍💻 Working with technologies like Angular and Node.js.
 
-## <h2> 🌟 Frontend Developer | Angular Enthusiast |  UX/UI Designer  ✨</h2> 
-
-- 🌱 Aprendiendo sobre nuevas tecnologías y frameworks.
-- 🤝 Buscando colaborar en proyectos interesantes.
-- 📚 Apasionadoa por aprender y compartir conocimientos.
-- 👨‍💻 Trabajando con tecnologías como Angular, Node.js.
 <br>
 
-## 💻 Technologies 
-
+<h2> Technologies  💻</h2>
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
 <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
 <a href="#"><img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
@@ -32,23 +31,19 @@
 <a href="#"><img alt="PhpMyAdmin" src="https://img.shields.io/badge/PhpMyAdmin-%232D5B9D.svg?style=for-the-badge&logo=phpmyadmin&logoColor=white"></a>
 <a href="#"><img alt="XAMPP" src="https://img.shields.io/badge/XAMPP-%23FF8C00.svg?style=for-the-badge&logo=xampp&logoColor=white"></a>
 <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+<br><br>
 
 
+<h2>GitHub Stats 📊</h2>
 
-<h2>GitHub Stats! 📊</h2>
-<br>
-  
 [![Daylin's github stats](https://github-readme-stats.vercel.app/api?username=DaylinMB&show_icons=true&theme=cobalt
 )](https://github.com/DaylinMB/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaylinMB&layout=compact&theme=cobalt
 )](https://github.com/DaylinMB/github-readme-stats)
 <br><br>
 
-
-<br>
-<h1 align="center">Get in Touch! 🤝</h1>
-<br>
-<p align="center">
+<h2>Get in Touch! 🤝</h2>
+<p>
     <a href="https://www.linkedin.com/in/daylinmejia" target="_blank">
         <img align="center" src="https://img.shields.io/badge/Daylin%20Mej%C3%ADa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a> &nbsp;&nbsp;&nbsp;  
@@ -59,8 +54,8 @@
         <img align="center" src="https://img.shields.io/badge/GitHub-DaylinMB-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
 </p>
-
-<p align="center">
+<br>
+<p>
 📌 Thanks for visiting my profile! 😊
 <p></p>
 
