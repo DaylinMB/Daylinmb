@@ -1,5 +1,5 @@
 
-<h1> 🖖 Hi there! I'm <a href="https://github.com/DaylinMB">Daylin Mejía<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1> 🖖 Hi there! I'm <a href="https://github.com/DaylinMB">Daylin Mejía<a> <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="80px"/></h1>
   
 <h2> 🌟 Frontend Developer | Angular Enthusiast |  UX/UI Designer  ✨</h2> 
 
